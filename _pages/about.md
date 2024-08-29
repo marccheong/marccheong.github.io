@@ -19,12 +19,9 @@ social: false # includes social icons at the bottom of the page
 
 Hi there 👋 
 
-I am currently a [Senior Lecturer - Information Systems specializing in Digital Ethics](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong),
-
-[Associate Director at the Centre for AI and Digital Ethics](https://www.unimelb.edu.au/caide/people),
-
-and an [Honorary Senior Fellow at the Melbourne Law School](https://law.unimelb.edu.au/about/staff#honoraries),
-
+I am currently a [Senior Lecturer - Information Systems specializing in Digital Ethics](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong),<br/>
+[Associate Director at the Centre for AI and Digital Ethics](https://www.unimelb.edu.au/caide/people),<br/>
+and an [Honorary Senior Fellow at the Melbourne Law School](https://law.unimelb.edu.au/about/staff#honoraries),<br/>
 all at The University of Melbourne.
 
 I am also an Honorary Burnet Institute Senior Fellow at [The Burnet Institute](https://burnet.edu.au/).
@@ -38,9 +35,9 @@ With over ~15 years of academic experience, I am committed to facilitating quali
 
 ## profiles and links
 
-* <b class="button"><i class="ai ai-archive"></i> [UniMelb Find an Expert Profile](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong)</b>
-* <b class="button"><i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com.au/citations?user=ZBgYuD8AAAAJ&hl=en)</b>
-* <b class="button"><i class="ai ai-philpapers"></i> [PhilPapers](https://philpeople.org/profiles/marc-cheong)</b>
+* <b class="badge"><i class="ai ai-archive"></i> [UniMelb Find an Expert Profile](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong)</b>
+* <b class="badge"><i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com.au/citations?user=ZBgYuD8AAAAJ&hl=en)</b>
+* <b class="badge"><i class="ai ai-philpapers"></i> [PhilPapers](https://philpeople.org/profiles/marc-cheong)</b>
 
 
 ## skillset at a glance
