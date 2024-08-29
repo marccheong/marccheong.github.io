@@ -35,9 +35,11 @@ With over ~15 years of academic experience, I am committed to facilitating quali
 
 ## profiles and links
 
-* <b class="btn"><i class="ai ai-archive"></i> [UniMelb Find an Expert Profile](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong)</b>
-* <b class="btn"><i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com.au/citations?user=ZBgYuD8AAAAJ&hl=en)</b>
-* <b class="btn"><i class="ai ai-philpapers"></i> [PhilPapers](https://philpeople.org/profiles/marc-cheong)</b>
+<b class="btn"><i class="ai ai-archive"></i>&nbsp;[UniMelb Find an Expert Profile](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong)</b>
+&nbsp;
+<b class="btn"><i class="ai ai-google-scholar"></i>&nbsp;[Google Scholar](https://scholar.google.com.au/citations?user=ZBgYuD8AAAAJ&hl=en)</b>
+&nbsp;
+<b class="btn"><i class="ai ai-philpapers"></i>&nbsp;[PhilPapers](https://philpeople.org/profiles/marc-cheong)</b>
 
 
 ## skillset at a glance
