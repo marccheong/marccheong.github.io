@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Social Network Analysis Approaches
+title: ⌗ Social Network Analysis Approaches
 description: My pioneering work on Twitter analysis led to the subsequent, ongoing, research interest in social media and social networks in general. 
 img: assets/img/12.jpg
 importance: 1
