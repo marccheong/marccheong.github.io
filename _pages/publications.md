@@ -7,7 +7,9 @@ nav: true
 nav_order: 2
 ---
 
-*🕰 For historical publications (before ca. 2017), please refer to the <a href="https://caffeinator.gitlab.io/asnac2016/">archive here, as a virtual handout (presented at ASNAC 2016).</a>*
+🕰 For historical publications (before ca. 2017), please refer to the <a href="https://caffeinator.gitlab.io/asnac2016/">archive here, as a virtual handout (presented at ASNAC 2016).</a>
+
+<hr/>
 
 <!-- _pages/publications.md -->
 
