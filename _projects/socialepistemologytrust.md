@@ -2,7 +2,7 @@
 layout: page
 title: 🤝 Social Epistemology, Digital Trust, and Social Psychology
 description: My contribution provides an empirical understanding of today's social media landscape through the lens of social epistemology.
-img: assets/img/12.jpg
+img: assets/img/chris-montgomery-unsplash.jpg
 importance: 1
 category: philosophy
 related_publications: true
@@ -11,7 +11,7 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/chris-montgomery-unsplash.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
