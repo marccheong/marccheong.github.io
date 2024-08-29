@@ -36,9 +36,9 @@ With over ten years of academic experience, I am committed to facilitating quali
 
 
 ## Profiles and links
-* <i class="ai ai-archive ai-3x"></i> [UniMelb Find an Expert Profile](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong)
+* <i class="ai ai-archive-square ai-3x"></i> [UniMelb Find an Expert Profile](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong)
 * <i class="ai ai-google-scholar-square ai-3x"></i> [Google Scholar](https://scholar.google.com.au/citations?user=ZBgYuD8AAAAJ&hl=en)
-* 
+* <i class="ai ai-philpapers-square ai-3x"></i> [PhilPapers](https://philpeople.org/profiles/marc-cheong)
 TODO
 [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
 
