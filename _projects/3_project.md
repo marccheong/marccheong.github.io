@@ -4,7 +4,7 @@ title: 💬 Analyses of Social Information Systems
 description: Frequent commentator to the media on impact of digital technologies - from a combined usability/philosophical/information systems perspective. 
 img: assets/img/12.jpg
 importance: 1
-category: IS, AI, data
+category: IS-AI-data
 related_publications: true
 ---
 
