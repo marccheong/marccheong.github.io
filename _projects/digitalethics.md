@@ -2,7 +2,7 @@
 layout: page
 title: 🚦 Digital Ethics and Algorithms
 description: I am interested in the intersection between computer science and philosophy - in particular how basic building blocks (of algorithms and programming languages) - have an impact on the human usage of systems, and their wider societal impact (for better or for worse).
-img: assets/img/12.jpg
+img: assets/img/chris-ried-unsplash.jpg
 importance: 1
 category: philosophy
 related_publications: true
@@ -11,7 +11,7 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/chris-ried-unsplash.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
