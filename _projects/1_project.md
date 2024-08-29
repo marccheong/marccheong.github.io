@@ -4,7 +4,7 @@ title: ⌗ Social Network Analysis Approaches
 description: My pioneering work on Twitter analysis led to the subsequent, ongoing, research interest in social media and social networks in general. 
 img: assets/img/12.jpg
 importance: 1
-category: IS, AI, data
+category: IS-AI-data
 related_publications: true
 ---
 
