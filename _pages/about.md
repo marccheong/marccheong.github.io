@@ -20,23 +20,27 @@ social: false # includes social icons at the bottom of the page
 Hi there 👋 
 
 I am currently a [Senior Lecturer - Information Systems specializing in Digital Ethics](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong),
-Associate Director at the [Centre for AI and Digital Ethics](https://www.unimelb.edu.au/caide/people)
-and an Honorary Senior Fellow at the [Melbourne Law School](https://law.unimelb.edu.au/about/staff#honoraries).
-all at The University of Melbourne (formerly Senior Research Fellow in Digital Ethics, 2020-2021).
+
+[Associate Director at the Centre for AI and Digital Ethics](https://www.unimelb.edu.au/caide/people),
+
+and an [Honorary Senior Fellow at the Melbourne Law School](https://law.unimelb.edu.au/about/staff#honoraries),
+
+all at The University of Melbourne.
 
 I am also an Honorary Burnet Institute Senior Fellow at [The Burnet Institute](https://burnet.edu.au/).
 
 My research interest is in social network analysis and interdisciplinary applications of both continental and analytic philosophy + data science empirical methods + information systems methodologies.
   
-With over ten years of academic experience, I am committed to facilitating quality interdisciplinary research and education: with a strong background in data science, social media analysis, and philosophical rigour.
+With over ~15 years of academic experience, I am committed to facilitating quality interdisciplinary research and education: with a strong background in data science, social media analysis, and philosophical rigour.
 
 
 
 
 ## profiles and links
-* <i class="ai ai-archive"></i> [UniMelb Find an Expert Profile](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong)
-* <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com.au/citations?user=ZBgYuD8AAAAJ&hl=en)
-* <i class="ai ai-philpapers"></i> [PhilPapers](https://philpeople.org/profiles/marc-cheong)
+
+* <b class="button"><i class="ai ai-archive"></i> [UniMelb Find an Expert Profile](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong)</b>
+* <b class="button"><i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com.au/citations?user=ZBgYuD8AAAAJ&hl=en)</b>
+* <b class="button"><i class="ai ai-philpapers"></i> [PhilPapers](https://philpeople.org/profiles/marc-cheong)</b>
 
 
 ## skillset at a glance
