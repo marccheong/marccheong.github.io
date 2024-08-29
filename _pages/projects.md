@@ -9,8 +9,10 @@ display_categories: [IS-AI-data, philosophy]
 horizontal: false
 ---
 
-🙋‍♂️ As one of the early global pioneers of Twitter research (ca. 2009), my PhD dissertation, "Inferring Social Behavior and Interaction on Twitter by Combining Metadata about Users & Messages", resulted in major contributions in social media metadata analysis and inference generation.
-Since then, I am recognised as a subject-matter expert in social media analysis, as well as the research methods and computational techniques used - including Python programming, cloud computing, Tableau, Python, SQL - to name a few. My data analysis and research acumen have contributed to international research collaborations in a wide range of domains - from marketing, to mental health, to energy policy, to political science.
+🙋‍♂️ As one of the early global pioneers of Twitter research (ca. 2009), my PhD dissertation, "Inferring Social Behavior and Interaction on Twitter by Combining Metadata about Users & Messages", resulted in major contributions in social media metadata analysis and inference generation. 
+I am recognised as a subject-matter expert in social media analysis, as well as the research methods and computational techniques used.
+
+My data analysis and research acumen have contributed to international research collaborations in a wide range of domains - from marketing, to mental health, to energy policy, to political science. I am a frequent media commentator and contributor to policy-making endeavours.
 
 <hr/>
 
