@@ -1,8 +1,8 @@
 ---
 layout: page
-title: 💬 Social Information Systems
+title: 💬 Social Implications of Information Systems
 description: Frequent commentator to the media on impact of digital technologies - from a combined usability/philosophical/information systems perspective. 
-img: assets/img/12.jpg
+img: assets/img/antenna-unsplash.jpg
 importance: 1
 category: IS-AI-data
 related_publications: true
@@ -11,7 +11,7 @@ related_publications: true
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/antenna-unsplash.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 
