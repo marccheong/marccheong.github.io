@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 💬 Analyses of Social Information Systems
+title: 💬 Social Information Systems
 description: Frequent commentator to the media on impact of digital technologies - from a combined usability/philosophical/information systems perspective. 
 img: assets/img/12.jpg
 importance: 1
