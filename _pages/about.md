@@ -9,9 +9,7 @@ profile:
   image: profile.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>School of Computing and Information Systems,</p>
-    <p>Centre for AI and Digital Ethics</p>
-    <p>The University of Melbourne.</p>
+    <p>The University of Melbourne</p>
     <p>&amp; The Burnet Institute.</p>
 
 news: false # includes a list of news items
@@ -35,18 +33,17 @@ With over ten years of academic experience, I am committed to facilitating quali
 
 
 
-## Profiles and links
-* <i class="ai ai-archive-square ai-3x"></i> [UniMelb Find an Expert Profile](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong)
-* <i class="ai ai-google-scholar-square ai-3x"></i> [Google Scholar](https://scholar.google.com.au/citations?user=ZBgYuD8AAAAJ&hl=en)
-* <i class="ai ai-philpapers-square ai-3x"></i> [PhilPapers](https://philpeople.org/profiles/marc-cheong)
-TODO
-[Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## profiles and links
+* <i class="ai ai-archive"></i> [UniMelb Find an Expert Profile](https://findanexpert.unimelb.edu.au/profile/862627-marc-cheong)
+* <i class="ai ai-google-scholar"></i> [Google Scholar](https://scholar.google.com.au/citations?user=ZBgYuD8AAAAJ&hl=en)
+* <i class="ai ai-philpapers"></i> [PhilPapers](https://philpeople.org/profiles/marc-cheong)
 
 
-## Skillset at a glance
+## skillset at a glance
 
-* 🔍 Information Systems' Impact on Society and Philosophy
+*A big-picture overview of my skillset follows... for more detail on projects and collaborations, please refer to [projects] above...*
+* 🔍 Information Systems' Impact on Society and the Philosophy of IS
 * 👥 Social Network Analysis and Mining
-* 👨‍🏫 Digital Humanities and Computational Social Science
+* 👨‍🏫 Digital Humanities, Philosophy, and Computational Social Science
 * 🤖 AI, Machine Learning, and Natural Language Processing
-* 📊 Data Analysis and Visualisation (incl. Tableau)
+* 📊 Data Analysis and Visualisation
