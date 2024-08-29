@@ -4,7 +4,7 @@ title: 🩺 Data-driven Public Health
 description: I am part of diverse research groups with subject matter experts contributing to interdisciplinary public health research. 
 img: assets/img/12.jpg
 importance: 1
-category: IS, AI, data
+category: IS-AI-data
 related_publications: true
 ---
 
