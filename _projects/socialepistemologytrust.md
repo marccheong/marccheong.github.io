@@ -16,7 +16,7 @@ related_publications: true
 </div>
 
 I have been working together with [Mark Alfano and his Digital Trust lab](https://www.digitaltrustresearch.com/) on applying data science and network analysis methods on the study of social epistemology. I am also passionate about empowering philosophers with state-of-the-art data science methods {% cite Klein2023-oy %}.
-Examples of work in this amazing collab include: {% cite Cheong2024-ug %} {% cite Alfano2024-lh %}  {% cite Alfano2024-lh %}  {% cite Ojea_Quintana2022-qd %}
+Examples of work in this amazing collab include: {% cite Cheong2024ug %} {% cite Alfano2024lh %}  {% cite Alfano2024js %} {% cite Abedin2023wa %}  {% cite Ojea_Quintana2022qd %}
 
 *Collaborators include:* Mark Alfano (MacQuarie); J Adam Carter (Glasgow); Emily Sullivan (Eindhoven); Colin Klein (ANU); Ignacio Ojea Quintana (ANU); Ritsaart Reimann (MacQuarie); Annie Chan (MacQuarie); Marinus Ferriera (MacQuarie).
 
