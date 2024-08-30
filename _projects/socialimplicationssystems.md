@@ -15,6 +15,11 @@ related_publications: true
     </div>
 </div>
 
+I am active in Information Systems research looking at (social) impacts of technological systems, AI, and digitalisation in general. My collaborations in IS blend theoretical foundations with new insights from philosophy, the social sciences, and higher education studies, amongst others.
+
+*Collaborators include (from UniMelb unless otherwise stated):* Shanton Chang, Rashika Bahl* (*PhD candidate*), Dana McKay (RMIT), George Buchanan (RMIT), Davor Petreski* (*PhD candidate*), Carlo Perrotta, Peter Woelert, Julian Marx, Winn Chow, Sherah Kurnia, Susie Sheldrick, Ofir Turel, 
+Hamed Qahri-Saremi (Colorado State University), Raffaele Ciriello (Sydney), and others...
+
 My highlights in this space include:
 * New York Times interview on Facebook's 2021 Australia news block.
 * The Age interview on QR code adoption in Victoria during the Covid-19 pandemic.
