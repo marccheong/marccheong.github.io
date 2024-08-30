@@ -17,7 +17,7 @@ related_publications: true
 
 I am active in Information Systems research looking at (social) impacts of technological systems, AI, and digitalisation in general. My scope of analysis ranges from the organisational level to the societal level.
 
-My collaborations in IS blend theoretical foundations with new insights from philosophy, the social sciences, and higher education studies, amongst others.
+My collaborations in IS blend theoretical foundations with new insights from philosophy, the social sciences, and higher education studies, amongst others. {% cite Marx2023rp %}.
 
 *Collaborators include (from UniMelb unless otherwise stated):* Shanton Chang, Rashika Bahl* (*PhD candidate*), Dana McKay (RMIT), George Buchanan (RMIT), Davor Petreski* (*PhD candidate*), Carlo Perrotta, Peter Woelert, Julian Marx, Winn Chow, Sherah Kurnia, Susie Sheldrick, Ofir Turel, 
 Hamed Qahri-Saremi (Colorado State University), Raffaele Ciriello (Sydney), Shreya Jha* (*PhD candidate*), Graham Sewell, and others...
