@@ -7,9 +7,11 @@ nav: true
 nav_order: 6
 ---
 
-I have contributed to various subjects at tertiary level since ~2009.
+📚 I have contributed to various subjects at tertiary level since ~2009.
 
 The following is a snapshot of more recent courses I have lectured/coordinated.
+
+- - -
 
 ### Information Systems Units - University of Melbourne
 * ISYS90045: Professional IS Consulting (co-lecturer, 2024-present)
