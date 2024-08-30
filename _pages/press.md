@@ -4,7 +4,7 @@ permalink: /press/
 title: press
 description: Press coverage, at a glance.
 nav: true
-nav_order: 10
+nav_order: 2
 ---
 
 The following is a selected snapshot of press coverage of my work, such as interviews, 'explainer' pieces, and investigative journalism pieces.
