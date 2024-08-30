@@ -11,7 +11,7 @@ nav_order: 4
 
 - - - 
 
-A snapshot of more recent publications are here.
+🆕 A snapshot of more recent publications are here.
 
 <!-- _pages/publications.md -->
 
