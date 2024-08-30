@@ -15,7 +15,7 @@ related_publications: true
     </div>
 </div>
 
-Examples of studies on the theme include: {% cite Coghlan2020-sc %} {% cite Coghlan2023-fl %} {% cite Paltiel2023-af %} {% Cohney2023-ib %} {% Cheong2021-gn %}
+Examples of studies on the theme include: {% cite Coghlan2020-sc %} {% cite Coghlan2023-fl %} {% cite Paltiel2023-af %} {% Cohney2023-ib %} {% Cheong2021-gn %} {% Njoto2022-hp %} (and many more...)
 
 *Collaborators include:* (from UniMelb unless otherwise stated) Simon Coghlan; Leah Ruppanner, Lea Frermann, Tony Wirth, Reeva Lederman; Tim Miller, Jeannie Paterson, Gabby Bush; Ronal Singh; Shaanan Cohney; Inbar Levy; Lía Acosta Rueda, Sophie Squires; Tim Kariotis, John Howe, John de New; Sheilla Njoto (PhD candidate); Aidan McLoughney (PhD candidate); 
 Kobi Leins (KCL); Joanne Byrne (La Trobe); Upol Ehsan (GA Tech); 
