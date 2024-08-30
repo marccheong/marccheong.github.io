@@ -7,7 +7,9 @@ nav: true
 nav_order: 5
 ---
 
-The following is a selected snapshot of keynotes, public presentations (e.g., fora), and other public outreach/science communication activities.
+🎙 The following is a selected snapshot of keynotes, public presentations (e.g., fora), and other public outreach/science communication activities.
+
+- - -
 
 * ["'Twitter Is Dead, Long Live X!' A Decade of Microblog Research and Implications for Knowledge and Research"](https://www.adwmainz.de/mediathek/medien/ansicht/marc-cheong-twitter-is-dead-long-live-x-a-decade-of-microblog-research-and-implications-f.html)<br/>
 Invited keynote speaker at the Philosophy [in:of:for:and] Digital Knowledge Infrastructures online workshop 2023,
