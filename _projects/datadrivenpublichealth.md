@@ -19,7 +19,7 @@ Currently, in collaboration with The Burnet, I work in project teams studying us
 
 *Collaborators include:* Robert Power, Cassandra Caddy (The Burnet); Alyce Wilson & team (The Burnet); Rana Zahroh (*former PhD student*), Meghan Bohren, Caroline Homer & team (UniMelb/The Burnet).
 
-<hr/>
+---
 
 I also work in analysing biases on health-related information systems and AI systems to help ensure that they are used in an ethical and equitable fashion. Current PhD supervisions involve the study of MHWB and digital platform use amongst international students, and the implications of AI use in the mental healthcare space. Other interdisciplinary health research involves NLP methods for detecting markers of low mental health and well being (MHWB), including use of social media amongst university students. 
 
