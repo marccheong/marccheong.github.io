@@ -25,3 +25,5 @@ My highlights in this space include:
 Other past research projects include (a) pioneering several research techniques, including Twitter-based survey and sampling, as well as natural language processing (combined with my forté of metadata analysis) to identify marketing behviours of craft beer pioneers versus their mainstream counterparts {% cite Aleti2016iz %} and (b) analysing the discourse on Twitter for energy policy and contemporary energy-related issues in Australia {% cite Morgan2018gd %}.  
 
 *Collaborators include:* Torgeir Aleti (RMIT); Sue Bedingfield (Monash); Paul Harrigan (UWA); Kerri Morgan (Deakin); Will Turner
+
+---
