@@ -3,7 +3,7 @@ layout: page
 title: ⌗ Social Network Analysis Approaches
 description: My pioneering work on Twitter analysis led to the subsequent, ongoing, research interest in social media and social networks in general. 
 img: assets/img/karsten-winegeart-unsplash.jpg
-importance: 2
+importance: 3
 category: IS-AI-data
 related_publications: true
 ---
@@ -20,3 +20,4 @@ Given any social network (real or simulated), I am interested in studying both i
 *Collaborators include:* David Green (Monash); Sid Ray (Monash)
 
 
+---
