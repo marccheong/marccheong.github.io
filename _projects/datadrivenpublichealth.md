@@ -15,7 +15,7 @@ related_publications: true
     </div>
 </div>
 
-Currently, in collaboration with The Burnet, I work in project teams studying user-generated social media responses to COVID-19 public health measures (TIGERC19) -- e.g., {% cite Saich2021wq %} and {% cite Power2021lx %} -- especially for pregnancy (SCOOP) {% cite Caddy2023qm %}, and in analysing how Caesarean sections are portrayed on Indonesian social media. 
+Currently, in collaboration with The Burnet, I work in project teams studying user-generated social media responses to COVID-19 public health measures (TIGERC19) -- e.g., {% cite Saich2021wq %} and {% cite Power2021lx %} -- especially for pregnancy (SCOOP) {% cite Caddy2023qm %}, and in analysing how Caesarean sections are portrayed on Indonesian social media {% cite Zahroh2024ks %}. 
 
 *Collaborators include:* Robert Power, Cassandra Caddy (The Burnet); Alyce Wilson & team (The Burnet); Rana Zahroh (*former PhD student*), Meghan Bohren, Caroline Homer & team (UniMelb/The Burnet).
 
