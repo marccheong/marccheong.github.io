@@ -14,8 +14,11 @@ nav_order: 2
 * [ABC News - "As AI influencers storm social media, some fear a 'digital Pandora's box' has been opened" (15 August 2024)](https://www.abc.net.au/news/2024-08-16/ai-influencers-instagram-porn-social-media-relationships/104071876)<br/>
 Long-form article (ABC News Story Lab) by Geraden Cann on virtual influencers and online harms.
 
+* [9News - "'Flawed approach': Experts weigh in on Dutton's pledge to ban social media for teens" (17 June 2024)](https://www.9news.com.au/national/social-media-ban-under-16s-would-it-work-experts-weigh-in/ac131159-ddca-4e57-af04-b17102367685)<br/>
+9News followup article by Adam Vidler on the AusSMC Press Release, quoting me on "How would an age ban work?".
+
 * [AusSMC - Joint Press Release - “EXPERT REACTION: Should we ban social media for under 16s?” (14 June 2024)](https://www.scimex.org/newsfeed/expert-reaction-should-we-ban-social-media-for-under-16s)<br/>
-Issued a press release with other academics via AusSMC, the Australian Science Media Centre, commenting on the technical feasibility on plans for "restricting children’s social media access".
+Issued a press release with other academics via AusSMC, the Australian Science Media Centre, commenting on the technical feasibility on plans for "restricting children’s social media access". This has been picked up by [OpenForum](https://www.openforum.com.au/what-the-experts-say-on-social-media-bans-for-young-people/) as well.
 
 * [Choice - "How much of your personal data does Spotify collect?" (8 May 2024)](https://www.choice.com.au/consumers-and-data/data-collection-and-use/who-has-your-data/articles/spotify-personal-data)<br/>
 Joint work with Xanthe Lowe-Brown, interviewed by Brendan Kearns, investigating the metadata collected by Spotify.
