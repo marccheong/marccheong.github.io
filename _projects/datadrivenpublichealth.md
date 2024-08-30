@@ -15,12 +15,12 @@ related_publications: true
     </div>
 </div>
 
-Currently, in collaboration with The Burnet, I work in project teams studying user-generated social media responses to COVID-19 public health measures (TIGERC19) especially for pregnancy (SCOOP). I also co-supervise a PhD project on analysing how Caesarean sections are portrayed on Indonesian social media.
+Currently, in collaboration with The Burnet, I work in project teams studying user-generated social media responses to COVID-19 public health measures (TIGERC19) -- e.g., {% cite Saich2021-wq %} and {% cite Power2021-lx %} -- especially for pregnancy (SCOOP) {% cite Caddy2023-qm %}, and in analysing how Caesarean sections are portrayed on Indonesian social media.
 
-*Collaborators include:* Robert Power (The Burnet); Cassandra Caddy (The Burnet); Alyce Wilson & team (The Burnet); Rana Zahroh (PhD).
+*Collaborators include:* Robert Power, Cassandra Caddy (The Burnet); Alyce Wilson & team (The Burnet); Rana Zahroh, Meghan Bohren, Caroline Homer & team (UniMelb/The Burnet).
 
 <hr/>
 
-A previous study at Monash involved NLP methods for detecting markers of low mental health and well being (MHWB), including use of social media amongst university students to find out their usage motivations and how it affects MHWB. 
+A previous study at Monash involved NLP methods for detecting markers of low mental health and well being (MHWB), including use of social media amongst university students to find out their usage motivations and how it affects MHWB. Current PhD supervisions involve the study of MHWB and digital platform use amongst international students.
 
-*Collaborators include:* Joanne Byrne (La Trobe); Yen Cheung (Monash); Eddie Robinson (Monash); Jojo Wong (La Trobe); Sudhir Mandarapu & Zhehui Yang (Honours, Monash)
+*Collaborators include:* Guanyu Wang (PhD candidate, UniMelb); Antonette Mendoza (UniMelb); Joanne Byrne (La Trobe); Yen Cheung (Monash); Eddie Robinson (Monash); Jojo Wong (La Trobe); Sudhir Mandarapu & Zhehui Yang (Honours, Monash)
