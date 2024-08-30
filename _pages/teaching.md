@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: Teaching portfolio at a glance...
+description: Teaching portfolio, at a glance.
 nav: true
 nav_order: 6
 ---
