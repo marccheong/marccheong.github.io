@@ -29,6 +29,6 @@ Funded projects include:
 
 ---
 
-A new interdisciplinary area of my research since ca. 2022 is the amalgamation of information systems ethics and software engineering, to investigate contemporary issues with software development, use, deployment and broader impact on stakeholders (ranging from users to organisations). An example of an area which attracts popular attention is the ethics of 'protestware'. I am part of the [BRIDGES](https://naist-se.github.io/PNG-BRIDGES/) research cluster, working closely with academics from Japan, Papua New Guinea, and Singapore.
+A new interdisciplinary area of my research since ca. 2022 is the amalgamation of information systems ethics and software engineering, to investigate contemporary issues with software development, use, deployment and broader impact on stakeholders (ranging from users to organisations) {% cite Gao2024fc %}. An example of an area which attracts popular attention is the ethics of 'protestware' {% cite Cheong2024jx %}. I am part of the [BRIDGES](https://naist-se.github.io/PNG-BRIDGES/) research cluster, working closely with academics from Japan, Papua New Guinea, and Singapore.
 
 *Collaborators include:* Raula Gaikovina Kula (NAIST), Christoph Treude (SMU), Takashi Nakano (NAIST), Kazumasa Shimari (NAIST), Sarita Rosenstock (UniMelb), Mansooreh Zahedi (UniMelb), Haoyu Gao (UniMelb)...
