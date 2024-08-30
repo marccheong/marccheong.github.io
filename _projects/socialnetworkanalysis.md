@@ -15,7 +15,7 @@ related_publications: true
     </div>
 </div>
 
-Given any social network (real or simulated), I am interested in studying both intrinsic and extrinsic features of the network, with both automated and semi-automated techniques, and cross-disciplinary insights {% cite Cheong2013nj %}. A key pillar of this is the development and research of robust techniques to computationally perform what is otherwise laborious manual processing.
+Given any social network (real or simulated), I am interested in studying both intrinsic and extrinsic features of the network, with both automated and semi-automated techniques, and cross-disciplinary insights. A key pillar of this is the development and research of robust techniques to computationally perform what is otherwise laborious manual processing.
 
 *Collaborators include:* David Green (Monash); Sid Ray (Monash)
 
