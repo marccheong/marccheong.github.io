@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-The following is a selected snapshot of press coverage of my work, such as interviews, 'explainer' pieces, and investigative journalism pieces.
+📰 The following is a selected snapshot of press coverage of my work, such as interviews, 'explainer' pieces, and investigative journalism pieces.
 
 * [ABC News - "As AI influencers storm social media, some fear a 'digital Pandora's box' has been opened" (15 August 2024)](https://www.abc.net.au/news/2024-08-16/ai-influencers-instagram-porn-social-media-relationships/104071876)<br/>
 Long-form article (ABC News Story Lab) by Geraden Cann on virtual influencers and online harms.
