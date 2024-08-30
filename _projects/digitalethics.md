@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 🚦 Digital Ethics and Algorithms
-description: I am interested in the intersection between computer science and philosophy - in particular how basic building blocks (of algorithms and programming languages) - have an impact on the human usage of systems, and their wider societal impact (for better or for worse).
+description: I am interested in the intersection between information systems, computing and philosophy - in particular how basic building blocks (of algorithms and programming languages) - have an impact on the human usage of systems, and their wider societal impact (for better or for worse).
 img: assets/img/chris-ried-unsplash.jpg
 importance: 1
 category: philosophy
@@ -17,8 +17,7 @@ related_publications: true
 
 Examples of studies on the theme include: {% cite Coghlan2020sc %} {% cite Coghlan2023fl %} {% cite Paltiel2023af %} {% cite Cohney2023ib %} {% cite Cheong2021gn %} {% cite Njoto2022hp %} (and many more...)
 
-*Collaborators include:* (from UniMelb unless otherwise stated) Simon Coghlan; Leah Ruppanner, Lea Frermann, Tony Wirth, Reeva Lederman; Tim Miller, Jeannie Paterson, Gabby Bush; Ronal Singh; Shaanan Cohney; Inbar Levy; Lía Acosta Rueda, Sophie Squires; Tim Kariotis, John Howe, John de New; Sheilla Njoto (PhD candidate); Aidan McLoughney (PhD candidate); 
-Kobi Leins (KCL); Joanne Byrne (La Trobe); Upol Ehsan (GA Tech); 
+*Collaborators include:* (from UniMelb unless otherwise stated) Simon Coghlan, Leah Ruppanner, Lea Frermann, Tony Wirth (Sydney), Reeva Lederman, Tim Miller (Queensland), Jeannie Paterson, Gabby Bush, Ronal Singh, Shaanan Cohney, Inbar Levy, Lía Acosta Rueda, Sophie Squires, Tim Kariotis, John Howe, John de New, Sheilla Njoto (PhD), Aidan McLoughney (PhD candidate), Kobi Leins (KCL), Joanne Byrne, Upol Ehsan (GA Tech)... 
 
 
 
