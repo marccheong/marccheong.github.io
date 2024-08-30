@@ -27,3 +27,5 @@ Funded projects include:
 * Understanding digital inequality in Victoria (MSEI);
 * Gendered algorithms: Rethinking discrimination in automated recruitment predictions (MCDS); 
 * Ethical Implications of AI Bias as a Result of Workforce Gender Imbalance (UniBank).
+
+---
