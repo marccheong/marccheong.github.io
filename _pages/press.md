@@ -37,7 +37,7 @@ Interviewed by Rebecca MacFarlane on the ethical duties of "social media influen
 * [Pursuit, University of Melbourne - "‘Anti-hero’: A philosophical take on Taylor’s existential authenticity" (8 February 2024)](https://pursuit.unimelb.edu.au/articles/anti-hero-a-philosophical-take-on-taylor-s-existential-authenticity)<br/>
 Popular philosophy piece on 'authenticity' on social media, and how "...the notion of authenticity in an online celebrity’s public persona needs to be reconsidered in 2024". Written as part of [Swiftposium](https://swiftposium2024.com/), "...an academic conference for scholars discussing the impact of Taylor Swift."
 
-* [The New Daily - "Environmentalists and academics ÿee Elon Musk’s Twitter nightmare" (17 August 2023)](https://www.thenewdaily.com.au/life/tech/2023/08/17/twitter-exodus-elon-musk)<br/>
+* [The New Daily - "Environmentalists and academics flee Elon Musk’s Twitter nightmare" (17 August 2023)](https://www.thenewdaily.com.au/life/tech/2023/08/17/twitter-exodus-elon-musk)<br/>
 Interviewed by Parker McKenzie on Elon Musk's Twitter (now X) acquisition and how "researchers and environmentalists ... [are] fleeing the site".
 
 * [Pursuit, University of Melbourne - "When it comes to jobs, AI does not like parents" (23 July 2023)](https://pursuit.unimelb.edu.au/articles/when-it-comes-to-jobs-ai-does-not-like-parents)<br/>
