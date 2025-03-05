@@ -11,6 +11,11 @@ nav_order: 2
 
 - - -
 
+* [ABC Radio Melbourne - Radio Interview with David Astle (10 October 2024)](https://www.abc.net.au/listen/programs/melbourne-evenings/evenings/104433982)<br/>On the "enshittification" of the Internet (tie-in with The Conversation piece).
+
+* [The Conversation - "The internet is worse than it used to be. How did we get here, and can we go back?" (17 September 2024)](https://theconversation.com/the-internet-is-worse-than-it-used-to-be-how-did-we-get-here-and-can-we-go-back-236513)<br/>
+Coauthored piece with Wonsun Shin on how the Internet has evolved through the decades and the lessons/takeaways from the 'current' Internet.
+
 * [ABC News - "As AI influencers storm social media, some fear a 'digital Pandora's box' has been opened" (15 August 2024)](https://www.abc.net.au/news/2024-08-16/ai-influencers-instagram-porn-social-media-relationships/104071876)<br/>
 Long-form article (ABC News Story Lab) by Geraden Cann on virtual influencers and online harms.
 
@@ -29,11 +34,11 @@ Interviewed by Joshua Gliddon for The Mandarin as part of their 2024 Digital ID 
 * [Centennial World - "What We Owe Each Other: The Dark Side of the Digital Bystander Effect" (30 April 2024)](https://centennialworld.com/what-we-owe-each-other-digital-bystander-effect/)<br/>
 Interviewed by Rebecca MacFarlane on the ethical duties of "social media influencers" being "role models".
 
-* [The New Daily - "Environmentalists and academics ÿee Elon Musk’s Twitter nightmare" (22 March 2022)](https://www.thenewdaily.com.au/life/tech/2023/08/17/twitter-exodus-elon-musk)<br/>
-Interviewed by Parker McKenzie on Elon Musk's Twitter (now X) acquisition and how "researchers and environmentalists ... [are] fleeing the site".
-
 * [Pursuit, University of Melbourne - "‘Anti-hero’: A philosophical take on Taylor’s existential authenticity" (8 February 2024)](https://pursuit.unimelb.edu.au/articles/anti-hero-a-philosophical-take-on-taylor-s-existential-authenticity)<br/>
 Popular philosophy piece on 'authenticity' on social media, and how "...the notion of authenticity in an online celebrity’s public persona needs to be reconsidered in 2024". Written as part of [Swiftposium](https://swiftposium2024.com/), "...an academic conference for scholars discussing the impact of Taylor Swift."
+
+* [The New Daily - "Environmentalists and academics ÿee Elon Musk’s Twitter nightmare" (17 August 2023)](https://www.thenewdaily.com.au/life/tech/2023/08/17/twitter-exodus-elon-musk)<br/>
+Interviewed by Parker McKenzie on Elon Musk's Twitter (now X) acquisition and how "researchers and environmentalists ... [are] fleeing the site".
 
 * [Pursuit, University of Melbourne - "When it comes to jobs, AI does not like parents" (23 July 2023)](https://pursuit.unimelb.edu.au/articles/when-it-comes-to-jobs-ai-does-not-like-parents)<br/>
 A research explainer piece to investigate issues of biases in CV analysis in earlier versions of (Chat)GPT. Coauthored with Lea Frermann, Sheilla Njoto, and Leah Ruppanner.
