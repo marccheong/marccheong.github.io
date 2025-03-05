@@ -11,6 +11,12 @@ nav_order: 5
 
 - - -
 
+* [Dagstuhl Seminar 25022: Towards a Multidisciplinary Vision for Culturally Inclusive Generative AI](https://www.dagstuhl.de/en/seminars/seminar-calendar/seminar-details/25022)<br/>
+Invited participant to Schloss Dagstuhl. January 2025, Germany.
+
+* ['"Someone Else Got the Job': AI for Hiring and Its Biases"](https://cah.ucf.edu/ethicscenter/past-events/)<br/>
+Invited speaker at Center for Ethics (C4E) at the University of Central Florida (UCF) for the Ethically Speaking series. Oct 2024, Online.
+
 * ["'Twitter Is Dead, Long Live X!' A Decade of Microblog Research and Implications for Knowledge and Research"](https://www.adwmainz.de/mediathek/medien/ansicht/marc-cheong-twitter-is-dead-long-live-x-a-decade-of-microblog-research-and-implications-f.html)<br/>
 Invited keynote speaker at the Philosophy [in:of:for:and] Digital Knowledge Infrastructures online workshop 2023,
 an "...online philosophy workshop about digital technology, knowledge, research, ethics, and education", by the Academy of Sciences and Literature, Mainz.
